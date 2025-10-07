@@ -1,7 +1,8 @@
 # Laravel Toolbox 🎥
 
-Welcome to the **Laravel Toolbox** repository.  
-This repo contains the code examples and scripts from the *Laravel Toolbox* YouTube series — 15 bite-sized lessons covering essential Laravel features in 5 minutes or less.
+Welcome to the **Laravel Toolbox** repository.
+
+This repo contains the code examples and scripts from the *Laravel Toolbox* YouTube series - 15 bite-sized lessons covering essential Laravel features in 5 minutes or less.
 
 Each episode shows you how to use a specific Laravel feature with **clear explanations, live code, and practical tips** you can drop straight into your projects.
 
