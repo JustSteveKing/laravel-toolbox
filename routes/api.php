@@ -1,8 +1,13 @@
 <?php
 
-use Illuminate\Http\Request;
+declare(strict_types=1);
+
+use App\Http\Controllers\Api;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/user', function (Request $request) {
-    return $request->user();
-})->middleware('auth:sanctum');
+Route::prefix('v1')->group(static function (): void {
+    Route::prefix('users')->as('users:')->group(static function (): void {
+        Route::get('/', Api\Users\V1\IndexController::class)->name('index');
+        Route::get('{user}', Api\Users\V1\ShowController::class)->name('show');
+    });
+});
