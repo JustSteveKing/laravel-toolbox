@@ -32,7 +32,7 @@ Each episode shows you how to use a specific Laravel feature with **clear explan
 ## 🤝 Contributing
 
 Got a tip, suggestion, or better example?
-Open a PR or drop an issue — this series is for the Laravel community, and contributions are welcome.
+Open a PR or drop an issue - this series is for the Laravel community, and contributions are welcome.
 
 ---
 
