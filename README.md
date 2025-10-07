@@ -9,21 +9,21 @@ Each episode shows you how to use a specific Laravel feature with **clear explan
 
 ## 📺 Episodes
 
-1. **API Resources** – Clean, consistent JSON responses for your APIs.
-2. **Form Requests** – Validate and authorize incoming requests.
-3. **Eloquent Accessors & Mutators** – Transform attributes automatically.
-4. **Custom Blade Directives** – Simplify repetitive template code.
-5. **Laravel Scout** – Full-text search made simple.
-6. **Query Scopes** – Reuse query logic across models.
-7. **Events & Listeners** – Decouple your application logic.
-8. **Task Scheduling** – Automate recurring jobs.
-9. **Job Queues** – Offload heavy tasks for better performance.
-10. **Rate Limiting** – Protect your app from abuse.
-11. **Testing with Pest** – Write expressive, fast tests.
-12. **Laravel Pint** – Keep your code clean and consistent.
-13. **API Rate Limiting** – Control traffic at the API layer.
-14. **Policies & Gates** – Handle authorization cleanly.
-15. **Observers** – Hook into model lifecycle events.
+1. **API Resources**: Clean, consistent JSON responses for your APIs.
+2. **Form Requests**: Validate and authorize incoming requests.
+3. **Eloquent Accessors & Mutators**: Transform attributes automatically.
+4. **Custom Blade Directives**: Simplify repetitive template code.
+5. **Laravel Scout**: Full-text search made simple.
+6. **Query Scopes**: Reuse query logic across models.
+7. **Events & Listeners**: Decouple your application logic.
+8. **Task Scheduling**: Automate recurring jobs.
+9. **Job Queues**: Offload heavy tasks for better performance.
+10. **Rate Limiting**: Protect your app from abuse.
+11. **Testing with Pest**: Write expressive, fast tests.
+12. **Laravel Pint**: Keep your code clean and consistent.
+13. **API Rate Limiting**: Control traffic at the API layer.
+14. **Policies & Gates**: Handle authorization cleanly.
+15. **Observers**: Hook into model lifecycle events.
 
 👉 Links to episodes will be added as they go live on YouTube.
 
